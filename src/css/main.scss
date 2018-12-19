@@ -1,0 +1,22 @@
+body{
+    background: grey;
+}
+.wrapper{
+    height: 40px;
+    text-align: center;
+    span{
+        color: red;
+        font-size: 19px;
+        padding: 10pxl;
+    }
+}
+.smallbox{
+    width: 60px;
+    height: 60px;
+    background: green;
+}
+.bigbox{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+}
